@@ -5,7 +5,7 @@ Supplementary material to the article
 
 We will be making all our codes publicly available soon.
 
-# the code
+# The code
 The main model is in file model.py. 
 
 The file utils.py and trian.py is modified from the code "FPN-OAMP" in https://github.com/wyuaq/FPN-OAMP-THz-Channel-Estimation.
