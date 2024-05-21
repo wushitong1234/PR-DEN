@@ -8,7 +8,9 @@ We will be making all our codes publicly available soon.
 # The code
 The main model is in file model.py. 
 
-The file utils.py and trian.py is modified from the code "FPN-OAMP" in https://github.com/wyuaq/FPN-OAMP-THz-Channel-Estimation.
+The file utils.py and trian.py is modified from the code 
+
+"FPN-OAMP" in https://github.com/wyuaq/FPN-OAMP-THz-Channel-Estimation.
 
 The file test_NMSE.py computes the NMSE. 
 
