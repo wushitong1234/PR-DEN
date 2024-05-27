@@ -11,12 +11,12 @@ file "PR_DEN_fullpaper.pdf" and "supporting_materials.pdf".
 
 
 # The code
-The main model is in file model.py. 
+The main model is in file "model.py". 
 
-The file utils.py and trian.py is modified from the code 
+The file "utils.py" and "trian.py" is modified from the code 
 
 "FPN-OAMP" in https://github.com/wyuaq/FPN-OAMP-THz-Channel-Estimation.
 
-The file test_NMSE.py computes the NMSE. 
+The file "test_NMSE.py" computes the NMSE. 
 
 The model is trained via "python train.py".
