@@ -5,6 +5,11 @@ Supplementary material to the article
 
 We will be making all our codes publicly available soon.
 
+
+# The paper 
+file "PR_DEN_fullpaper.pdf" and "supporting_materials.pdf".
+
+
 # The code
 The main model is in file model.py. 
 
