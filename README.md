@@ -7,8 +7,7 @@ We will be making all our codes publicly available soon.
 
 
 # The paper 
-file "PR_DEN_fullpaper.pdf" and "supporting_materials.pdf".
-
+file "PR_DEN_paper_24.pdf".
 
 # The code
 The main model is in file "model.py". 
